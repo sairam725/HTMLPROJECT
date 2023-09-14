@@ -1,0 +1,52 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+    nav{
+    background-color:rgb(0, 4, 8);
+    display: flex;
+    height: 60px;
+    text-align: center;
+}
+ ul{
+    list-style-type:none;
+    
+    display: flex;
+ }
+nav ul li{ margin:20px;
+        padding:0px;
+        line-height: 20px;
+        margin:0 90px;
+        font-weight: bold;
+        color: aliceblue;
+        text-decoration: none;
+        margin-top: 10px;
+
+
+    }
+a{
+    color: aliceblue;
+    text-decoration: none;
+    padding:10px;
+
+}
+
+    nav div{
+        margin-top:0px;
+    }
+
+
+
+
+
+
+body{
+    font-size: larger;
+    font-weight: bold;
+    background-image:url(https://q-xx.bstatic.com/xdata/images/hotel/840x460/81378816.jpg?k=415db2fd9f8aa2042e4265dd6a3a5e3b40bf473e01b621db196c9394577004e9&o=&isSkia=true);
+    background-size: cover;
+    
+}
+ul li a:hover{
+    color: darkgray;
+}

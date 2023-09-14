@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0px;
+}
+
+nav ul{
+
+
+    display: flex;
+    margin-top:0px;
+    margin:0px;
+    line-height:60px;
+    text-decoration:none;
+    list-style: none;
+    background-color: #121111;
+    font-weight: bold;
+    margin-left:0px;
+    justify-content: space-evenly;
+    color: aliceblue;
+    font-size: 20px;
+    list-style: none;
+}
+
+nav ul img{
+    height: 60px;
+    width: 70px;}
+div ul{
+    list-style: none;
+    margin-left: 30px;
+    font-size: 25px;
+}
+body{
+    background-image: url(https://heartsense.in/wp-content/uploads/2019/01/Heath-blog-guide-dr-vivek-baliga.jpg);
+    background-size: cover;
+}
+li a{
+    text-decoration: none;
+}
+ul h1 a{
+    text-decoration: none;
+}
+ul  li a:hover{
+    color: aqua;
+}

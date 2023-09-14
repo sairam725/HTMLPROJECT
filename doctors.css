@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0px;
+}
+
+nav ul{
+
+
+    display: flex;
+    margin-top:0px;
+    margin:0px;
+    line-height:60px;
+    text-decoration:none;
+    list-style: none;
+    background-color: #121111;
+    font-weight: bold;
+    margin-left:0px;
+    justify-content: space-evenly;
+    color: aliceblue;
+    font-size: 20px;
+    list-style:none;
+}
+
+nav ul img{
+    height: 60px;
+    width: 70px;}
+div{
+    margin-left:20px;
+    color: aliceblue;
+}
+body{
+    background-image: url(https://thumbs.dreamstime.com/b/doctor-white-coat-stethoscope-crosses-his-arms-over-his-chest-copy-space-blue-background-healthcare-medicine-concept-97773021.jpg?w=1200);
+    background-size: cover;
+}
+ul h1 a{
+    text-decoration: none;
+}
+ul li a{
+    text-decoration: none;
+}
+ul  li a:hover{
+        color: aqua;
+}

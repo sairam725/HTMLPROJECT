@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0px;
+}
+
+nav ul{
+
+
+    display: flex;
+    margin-top:0px;
+    margin:0px;
+    line-height:60px;
+    text-decoration:none;
+    list-style: none;
+    background-color: #121111;
+    font-weight: bold;
+    margin-left:0px;
+    justify-content: space-evenly;
+    color: aliceblue;
+    font-size: 20px;}
+
+nav ul img{
+    height: 60px;
+    width: 70px;}
+.one ul li{
+    list-style: none;
+   margin:20px;
+
+}
+ul h1 a{
+    text-decoration: none;
+}
+ul li a{
+    text-decoration: none;
+}

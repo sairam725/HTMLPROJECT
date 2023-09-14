@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0px;
+}
+
+nav ul{
+
+
+    display: flex;
+    margin-top:0px;
+    margin:0px;
+    line-height:60px;
+    text-decoration:none;
+    list-style: none;
+    background-color: #121111;
+    font-weight: bold;
+    margin-left:0px;
+    justify-content: space-evenly;
+    color: aliceblue;
+    font-size: 20px;
+    list-style: none;
+    
+}
+
+nav ul img{
+    height: 60px;
+    width: 70px;
+}
+body{
+    background-image:url(https://medicaldialogues.in/h-upload/2021/07/24/157876-1-doctors-in-india.webp);
+    background-size: cover;
+}
+div{
+    font-weight: bold;
+    font-size: 30px;
+    font-style: italic;
+
+
+}
+pre {
+    margin-left: 30px;
+}
+p{
+    margin-left: 30px;
+}
+div1 ul1 li{
+    font-size: 20px;
+    list-style-type: none;
+    color:white;
+    margin-left: 30px;}
+div1 h1{ 
+    margin-left: 25px;
+    text-decoration: none;
+    list-style: none;
+    color: rgb(154, 9, 120);
+}
+ul1{
+    text-decoration: none;
+    list-style: none;
+}
+
+
+  button{
+    font-size: 30px;
+    background-color: rgb(43, 165, 165);
+    color: azure;
+    border-radius: 10px;
+    margin-left: 40px;
+    text-decoration: none;
+
+}
+ul h1 a{
+    text-decoration: none;
+}
+ul li a{
+    text-decoration: none;
+}

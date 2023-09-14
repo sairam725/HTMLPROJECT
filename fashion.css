@@ -1,0 +1,14 @@
+
+*{
+    padding: 0px;
+        margin: 0px;}
+ul{
+    color:white;
+    justify-content: space-evenly;
+    display: flex;
+    list-style-type: none;
+    background-color: black;
+    font-size: 35px;
+    
+}
+    
