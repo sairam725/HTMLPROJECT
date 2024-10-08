@@ -1,0 +1,12 @@
+*{
+
+}
+body{
+    display: flex;
+    text-align: center;
+    background-color: aqua;
+    
+}
+div{
+    background-color: aqua;
+}

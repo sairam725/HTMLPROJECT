@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(34, 239, 239);
+    text-align: center;
+   
+    
+}
+div1{
+    width: 200px;
+    height: 50px; 
+    border-radius:5px;
+    text-align: center;
+}
